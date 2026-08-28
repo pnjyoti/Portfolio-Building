@@ -1,0 +1,29 @@
+# Activity 2 – Git and GitHub
+
+## Objective
+
+To learn the basics of Git and GitHub and understand how to manage and upload project files using version control.
+
+## Files Included
+
+- HelloWorld.java – Simple Java Hello World program
+- sample.html – Basic HTML file
+- Test.py – Python program
+- Test.class – Java compiled class file
+
+## Tools Used
+
+- Visual Studio Code
+- Git
+- GitHub
+
+## Git Commands Practiced
+
+```bash
+git config --global user.name
+git config --global user.email
+git init
+git status
+git add .
+git commit
+git push
